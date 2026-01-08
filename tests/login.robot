@@ -3,5 +3,5 @@ Library    BuiltIn
 
 *** Test Cases ***
 Login Successfully
-    [Tags]    auto    smoke
-    Log    Hello from Robot Framework
+    [Tags]    auto    KIWI-LOGIN-001
+    Log    Hello from Kiwi → Jenkins → Robot
